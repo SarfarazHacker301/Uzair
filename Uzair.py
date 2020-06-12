@@ -4,7 +4,6 @@
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
-
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -21,8 +20,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 
 def keluar():
 	print "\x1b[1;91mExit"
-	os.sys.exit()
-
+	os.U
 
 def acak(b):
     w = 'ahtdzjc'
